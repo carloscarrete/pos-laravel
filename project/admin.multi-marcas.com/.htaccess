@@ -1,0 +1,24 @@
+
+RewriteBase /
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+
+
+
+# Disable directory browsing
+Options All -Indexes
+
+# Custom error page for error 403, 404 and 500
+ErrorDocument 404 /assets/script/error.php
+ErrorDocument 403 /assets/script/error.php
+ErrorDocument 500 /assets/script/error.php
+AuthType Basic
+AuthName "Admin"
+AuthUserFile "/home/bqwdxwfh/.htpasswds/admin.multi-marcas.com/passwd"
+require valid-user

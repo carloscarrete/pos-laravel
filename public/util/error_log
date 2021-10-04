@@ -1,0 +1,9 @@
+[04-Jul-2020 21:32:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 266240 bytes) in /home/bqwdxwfh/pos/public/util/print_corte.php on line 202
+[08-Jul-2020 21:45:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bqwdxwfh/pos/public/util/print_corte.php on line 202
+[09-Jul-2020 21:48:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 266240 bytes) in /home/bqwdxwfh/pos/public/util/print_corte.php on line 202
+[10-Jul-2020 21:56:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/bqwdxwfh/pos/public/util/print_corte.php on line 202
+[01-Aug-2020 21:29:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bqwdxwfh/pos/public/util/print_corte.php on line 202
+[07-Aug-2020 21:06:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bqwdxwfh/pos/public/util/print_corte.php on line 202
+[14-Aug-2020 21:29:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bqwdxwfh/pos/public/util/print_corte.php on line 202
+[17-Aug-2020 21:29:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 131072 bytes) in /home/bqwdxwfh/pos/public/util/print_corte.php on line 202
+[20-Aug-2020 22:05:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bqwdxwfh/pos/public/util/print_corte.php on line 202

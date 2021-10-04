@@ -1,0 +1,146 @@
+.FUSHIA {
+text-align: center;
+color: #ed0996;
+font-family: impact;
+font-size: 46px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #ed0996;
+-webkit-text-stroke: 2px black;
+}
+
+.AZUL {
+text-align: center;
+color: #1303fc;
+font-family: impact;
+font-size: 46px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #1303fc;
+-webkit-text-stroke: 2px black;
+}
+
+.ROJO {
+text-align: center;
+color: #ff0000;
+font-family: impact;
+font-size: 46px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #ff0000;
+-webkit-text-stroke: 2px black;
+}
+
+.ROSA {
+text-align: center;
+color: #f03ac5;
+font-family: impact;
+font-size: 46px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #f03ac5;
+-webkit-text-stroke: 2px black;
+}
+
+.MORADO {
+text-align: center;
+color: #b600e8;
+font-family: impact;
+font-size: 46px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #b600e8;
+-webkit-text-stroke: 2px black;
+}
+
+.CYAN {
+text-align: center;
+color: #00c5e8;
+font-family: impact;
+font-size: 46px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #00c5e8;
+-webkit-text-stroke: 2px black;
+}
+
+.MENTA {
+text-align: center;
+color: #00e887;
+font-family: impact;
+font-size: 46px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #00e887;
+-webkit-text-stroke: 2px black;
+}
+
+.VERDE {
+text-align: center;
+color: #02e31c;
+font-family: impact;
+font-size: 46px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #02e31c;
+-webkit-text-stroke: 2px black;
+}
+
+.VERDE {
+text-align: center;
+color: #fff708;
+font-family: impact;
+font-size: 46px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #fff708;
+-webkit-text-stroke: 2px black;
+}
+
+.NARANJA {
+text-align: center;
+color: #ff6f08;
+font-family: impact;
+font-size: 46px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #ff6f08;
+-webkit-text-stroke: 2px black;
+}
+
+.NEGRO {
+text-align: center;
+color: #000000;
+font-family: impact;
+font-size: 46px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #000000;
+-webkit-text-stroke: 2px black;
+}
+
+.body 
+    {
+    height: 100%;
+    width: 100%;
+    background-image: url('../images/fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+    
+    }
+    
+.nav 
+    {
+    height: 100%;
+    width: 100%;
+    background-image: url('../images/nav.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+    
+    }
+    
+.side-nav {
+    padding: 0;
+    height: calc(100% - 60px);
+    margin-top: 60px;
+    z-index: 997;
+    width: 220px;
+}
+
+.center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+            }
